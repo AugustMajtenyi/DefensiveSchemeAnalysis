@@ -1,13 +1,14 @@
 # DefensiveSchemeAnalysis
 Graphs the impact of Defensive Schemes for a chosen team in your Yahoo Fantasy football league
 
-
+___________________________________________________________________________________________________________________________________________
 
 Introduction:
 
 'Defensive Schemes 'is a novel fantasy football rule that slightly reduces and boosts certain player stats of your opposing team.
 These stat alterations are based on nfl tactics and are meant to add an extra domension of skill to fantasy football. 
 
+___________________________________________________________________________________________________________________________________________
 
 
 Additional Resources about Defensive Schemes
@@ -15,6 +16,7 @@ Additional Resources about Defensive Schemes
 https://pasca89.wixsite.com/afootballfantasy/post/mffl-training-camp-defensive-schemes
 https://augustmajtenyi.github.io/FantasyFootball.html
 
+___________________________________________________________________________________________________________________________________________
 
 
 Instructions
