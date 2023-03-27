@@ -5,8 +5,8 @@ ________________________________________________________________________________
 
 Introduction:
 
-'Defensive Schemes 'is a novel fantasy football rule that slightly reduces and boosts certain player stats of your opposing team.
-These stat alterations are based on nfl tactics and are meant to add an extra domension of skill to fantasy football. 
+'Defensive Schemes is a novel fantasy football rule that slightly reduces and boosts certain player stats of your opposing team.
+These stat alterations are based on nfl tactics and are meant to add an extra dimension of skill to fantasy football. 
 
 ___________________________________________________________________________________________________________________________________________
 
@@ -21,7 +21,6 @@ ________________________________________________________________________________
 
 Instructions
 
-Go to [https://github.com/uberfastman/yfpy] and follow instructions for connecting to the Yahoo Fantasy Sports API
-This includes Installation, Setup
+Go to [https://github.com/uberfastman/yfpy] and follow instructions 'Installation', 'Setup', and 'Usage' for connecting to the Yahoo Fantasy Sports API
 To use, downlod this file and insert your 'League_ID' and 'Path_to_private_json' located on lines 2 and 3. 
 You're ready to run!
