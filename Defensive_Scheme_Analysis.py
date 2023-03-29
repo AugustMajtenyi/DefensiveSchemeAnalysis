@@ -1,6 +1,6 @@
 # DEFINE YOUR LEAGUE ID
-league_ID = ["INSERT LEAGUE ID"]
-Path_to_private_json = ["INSERT PATH TO 'private.json' FILE"]
+league_ID = "INSERT LEAGUE ID"
+path_to_private_json = "INSERT PATH TO 'private.json' FILE"
 
 
 
@@ -15,10 +15,9 @@ from yfpy.models import Roster
 import matplotlib.pyplot as plt
 
 
-# Variables I am using:
+# Declaring Variable:
 weekly_roster = []
 weekly_rosters = []
-Stats = []
 x_axis = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17]
 y_Cover2 = []
 y_StackedBox = []
@@ -30,13 +29,13 @@ y_DimeNDisguise = []
 sc = OAuth2(None, None, from_file='private.json')
 game = yfa.Game(sc, 'nfl')
 league = yfa.League(sc, league_ID)
-query = YahooFantasySportsQuery(Path(Path_to_private_json), league_id={league_ID})
+query = YahooFantasySportsQuery(Path(path_to_private_json), league_id={league_ID})
 
 
 
 # Defining Functions
 
-# Ask which team they are interested in recieveing stats from
+    # Determine desired team number
 def Get_team_num():
     print()
     print('Which number would you like to see stats for?')
@@ -49,7 +48,7 @@ def Get_team_num():
         print('not acceptable team number')
         return Get_team_num()
 
-# Retrieve the player_keys of the starting players each week up to current week
+    # Retrieve player_keys of the starting players each week up to current week
 def retrieveStats(team_num):
     week_number = 1
     team_number = team_num
