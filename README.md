@@ -1,6 +1,8 @@
 # DefensiveSchemeAnalysis
 Graphs the impact of Defensive Schemes for a chosen team in your Yahoo Fantasy football league
 
+Learn about Defensive Schemes in Fantasy Football here: https://augustmajtenyi.github.io/FantasyFootball.html
+
 ___________________________________________________________________________________________________________________________________________
 
 Introduction:
